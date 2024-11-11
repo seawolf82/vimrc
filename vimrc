@@ -25,12 +25,3 @@ set title
 
 Shift width is the number of spaces to use for each step of auto indent (ai).
 set sw=2
-
-# Turn syntax highlighting on according to the current value of fileType which in this case is yaml
-syntax on
-
-Setting commands to be automatically executed when reading or writing a file
-autocmd
-
-#Setting vim to recognize yaml filetypes.
-fileType yaml
